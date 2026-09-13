@@ -29,3 +29,9 @@ outputs/results/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Training outputs
+runs/
+
+# Downloaded model weights
+*.pt
